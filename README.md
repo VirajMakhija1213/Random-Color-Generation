@@ -1,5 +1,8 @@
 # Random-Color-Generation
 https://viraj1213.github.io/Random-Color-Generation/
+
+
+
 Random Color Generator 🎨
 Welcome to the Random Color Generator! This simple web application generates a random color every time the user clicks a button. The generated color is displayed on the screen, and its hexadecimal code is shown for easy use in any design project.
 
