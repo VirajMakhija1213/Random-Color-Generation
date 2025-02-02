@@ -1,5 +1,5 @@
 # Random-Color-Generation
-https://viraj1213.github.io/Random-Color-Generation/
+https://virajmakhija1213.github.io/Random-Color-Generation/
 
 
 
